@@ -3,7 +3,7 @@ Creación de Plantilla Wordpress para Sitio Web de la radio chilena Modo Radio, 
 
 Incluye:
 
--Responsive Design
--Caja de Comentarios de Facebook
--Cuadro de autor
--Imagen destacada
+Responsive Design
+Caja de Comentarios de Facebook
+Cuadro de autor
+Imagen destacada
