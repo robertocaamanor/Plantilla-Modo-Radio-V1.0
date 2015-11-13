@@ -8,3 +8,5 @@ Incluye:
 -Slide con JQuery<br>
 -Caja de Autor<br>
 -Imagen destacada en las entradas
+
+http://modoradio.wordpress.com
